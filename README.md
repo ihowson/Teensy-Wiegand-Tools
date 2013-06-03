@@ -1,8 +1,8 @@
-# Teensy Weigand dumper
+# Teensy Wiegand dumper
 
 Ian Howson (ian@mutexlabs.com)
 
-This is a modification of the [Teensy USB keyboard emulation code](http://www.pjrc.com/teensy/usb_keyboard.html) to dump out Weigand strings. For example, you can connect an off-the-shelf HID card reader and dump out card contents.
+This is a modification of the [Teensy USB keyboard emulation code](http://www.pjrc.com/teensy/usb_keyboard.html) to dump out Wiegand strings. For example, you can connect an off-the-shelf HID card reader and dump out card contents.
 
 The intended hardware setup is:
 
