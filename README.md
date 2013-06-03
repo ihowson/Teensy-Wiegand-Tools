@@ -2,7 +2,7 @@
 
 Ian Howson (ian@mutexlabs.com)
 
-This is a modification of the [http://www.pjrc.com/teensy/usb_keyboard.html](Teensy USB keyboard emulation code) to dump out Weigand strings. For example, you can connect an off-the-shelf HID card reader and dump out card contents.
+This is a modification of the [Teensy USB keyboard emulation code](http://www.pjrc.com/teensy/usb_keyboard.html) to dump out Weigand strings. For example, you can connect an off-the-shelf HID card reader and dump out card contents.
 
 The intended hardware setup is:
 
@@ -17,6 +17,6 @@ The code is extremely nasty and needs work. Also, I haven't provided a clear lin
 
 Assume that it is all MIT licensed.
 
-This is intended to support [http://ianhowson.com/attacks-on-proximity-card-systems.html](Attacks on Proximity Card Systems).
+This is intended to support [Attacks on Proximity Card Systems](http://ianhowson.com/attacks-on-proximity-card-systems.html)
 
 
